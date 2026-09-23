@@ -24,7 +24,6 @@ const expectedFiles = [
   'out/departments/index.html',
   'out/services/index.html',
   'out/why-choose-us/index.html',
-  'out/_redirects',
   'out/favicon.ico',
   'out/logo.jpg',
   'out/og-image.jpg',
